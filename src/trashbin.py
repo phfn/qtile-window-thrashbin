@@ -15,7 +15,7 @@
 
 "A thrashbin for qtile windows."
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 from libqtile.core.manager import Qtile
 from libqtile.backend.base import Window
